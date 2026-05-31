@@ -10,8 +10,8 @@ Rather than starting from abstract eikonal solver formulations, this project use
 
 > [!NOTE]
 > ### 🔍 Looking for the code?
-> Wanna see it on github?  Head over to the **[10_Seismic_Code_Viewer](10_Seismic_Code_Viewer).
-> What to download? Head over to the **[Code)** directory to explore the complete implementation.
+> Want to see on GitHub?  Head over to the **[10_Seismic_Code_Viewer](10_Seismic_Code_Viewer)**.
+> Want to download? Head over to the **[Code](Code)** directory to explore the complete implementation.
 ---
 
 ## 📋 Project Structure & Covered Equations
