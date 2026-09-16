@@ -9,9 +9,9 @@ Traveltime calculation is of fundamental importance in seismic processing, inter
 Rather than starting from abstract eikonal solver formulations, this project uses an intentionally pedagogical approach. Every derivation emphasizes geometry, trigonometry, image-point constructions, and physical intuition, connecting simple analytical proofs to practical processing workflows.
 
 > [!NOTE]
-> ### 🔍 Looking for the code?
-> * **Want to view it on GitHub?** ➔ Head over to the **[10_Seismic_Code_Viewer](/10_Seismic_Code_Viewer)** directory.
-> * **Want to download the files?** ➔ Head over to the **[Code](/Code)** directory to explore the complete implementation.
+> ### 🔍 Looking for the Slide Presentation?
+> * **Want to view it on GitHub?** ➔ Head over to the **[Slides_for_classes](/Slides_for_classes)** directory.
+
 
 
 
